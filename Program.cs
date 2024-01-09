@@ -16,9 +16,18 @@ namespace sem4
                 value = Console.ReadLine();
                 array[i] = value;
             }
-            Console.WriteLine("Получившийся массив:");
+            Console.WriteLine("Начальный массив:");
             foreach (string i in array) Console.Write("{0} ", i);
+            Console.WriteLine("\nОтсортированный массив:");
 
+            foreach (string i in array)
+            {
+                int length = i.Length;
+                if (length <= 3)
+                {
+                    Console.Write("{0} ", i);
+                }
+            }
         }
     }
 }
