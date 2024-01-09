@@ -1,0 +1,14 @@
+/Users/arseniy 1/gb_c#/seminars/verification_test/obj/Debug/netcoreapp3.1/verification_test.csproj.AssemblyReference.cache
+/Users/arseniy 1/gb_c#/seminars/verification_test/obj/Debug/netcoreapp3.1/verification_test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arseniy 1/gb_c#/seminars/verification_test/obj/Debug/netcoreapp3.1/verification_test.AssemblyInfoInputs.cache
+/Users/arseniy 1/gb_c#/seminars/verification_test/obj/Debug/netcoreapp3.1/verification_test.AssemblyInfo.cs
+/Users/arseniy 1/gb_c#/seminars/verification_test/obj/Debug/netcoreapp3.1/verification_test.csproj.CoreCompileInputs.cache
+/Users/arseniy 1/gb_c#/seminars/verification_test/bin/Debug/netcoreapp3.1/verification_test
+/Users/arseniy 1/gb_c#/seminars/verification_test/bin/Debug/netcoreapp3.1/verification_test.deps.json
+/Users/arseniy 1/gb_c#/seminars/verification_test/bin/Debug/netcoreapp3.1/verification_test.runtimeconfig.json
+/Users/arseniy 1/gb_c#/seminars/verification_test/bin/Debug/netcoreapp3.1/verification_test.runtimeconfig.dev.json
+/Users/arseniy 1/gb_c#/seminars/verification_test/bin/Debug/netcoreapp3.1/verification_test.dll
+/Users/arseniy 1/gb_c#/seminars/verification_test/bin/Debug/netcoreapp3.1/verification_test.pdb
+/Users/arseniy 1/gb_c#/seminars/verification_test/obj/Debug/netcoreapp3.1/verification_test.dll
+/Users/arseniy 1/gb_c#/seminars/verification_test/obj/Debug/netcoreapp3.1/verification_test.pdb
+/Users/arseniy 1/gb_c#/seminars/verification_test/obj/Debug/netcoreapp3.1/verification_test.genruntimeconfig.cache

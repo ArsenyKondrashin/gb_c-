@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/arseniy 1/gb_c#/seminars/sem4/sem2.csproj",
-      "projectName": "sem2",
-      "projectPath": "/Users/arseniy 1/gb_c#/seminars/sem4/sem2.csproj",
+      "projectUniqueName": "/Users/arseniy 1/gb_c#/seminars/verification_test/verification_test.csproj",
+      "projectName": "verification_test",
+      "projectPath": "/Users/arseniy 1/gb_c#/seminars/verification_test/verification_test.csproj",
       "packagesPath": "/Users/arseniy 1/.nuget/packages/",
-      "outputPath": "/Users/arseniy 1/gb_c#/seminars/sem4/obj/",
+      "outputPath": "/Users/arseniy 1/gb_c#/seminars/verification_test/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/arseniy 1/.nuget/NuGet/NuGet.Config"
